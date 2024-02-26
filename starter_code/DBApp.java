@@ -107,7 +107,7 @@ public class DBApp {
 		// tree.insert(234, 121.56);
 		// tree.insert(4325, -109.23);
 
-		System.out.println(4);
+		System.out.println(5);
 
 //	try{
 //			String strTableName = "Student";
